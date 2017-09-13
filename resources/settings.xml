@@ -11,7 +11,7 @@
     <setting id="sep2" type="sep" />
     <setting id="useextraelements" type="bool" label="32107" default="true" />
     <setting id="sep2" type="sep" />
-    <setting id="screensaverplayingmusic" type="bool" label="32108" default="true" />
+    <setting id="screensaverplayingmusic" type="bool" label="32108" default="false" />
   </category>
   <category label="32200">
     <setting label="32206" type="lsep" />
